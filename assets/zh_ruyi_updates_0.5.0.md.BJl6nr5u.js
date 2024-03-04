@@ -12,7 +12,7 @@ import{_ as t,c as e,o as s,a4 as i}from"./chunks/framework.DRfcu8ax.js";const g
 <span class="line"></span>
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">[</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0;">repo</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">]</span></span>
 <span class="line"><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D;"># RuyiSDK 本地元数据路径</span></span>
-<span class="line"><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D;"># 未配置或配置为空时，默认采用 $XDG_CACHE_HOME/ruyi/packages-index</span></span>
+<span class="line"><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D;"># 未配置或配置为空时，默认使用 $XDG_CACHE_HOME/ruyi/packages-index</span></span>
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">local = </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF;">&quot;&quot;</span></span>
 <span class="line"></span>
 <span class="line"><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D;"># RuyiSDK 远端元数据仓库</span></span>
