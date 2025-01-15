@@ -1,3 +1,7 @@
+---
+sidebar_position: 2
+---
+
 # 安装
 
 让我们从 RuyiSDK 包管理器的安装开始。

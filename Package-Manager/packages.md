@@ -1,3 +1,7 @@
+---
+sidebar_position: 3
+---
+
 # 管理 Ruyi 软件包
 
 ## 刷新本地软件包缓存

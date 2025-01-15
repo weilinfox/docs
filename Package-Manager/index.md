@@ -1,3 +1,7 @@
+---
+sidebar_position: 1
+---
+
 # 功能概览
 
 ruyi 包管理器主要提供以下功能。
