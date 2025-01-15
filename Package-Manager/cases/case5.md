@@ -1,3 +1,7 @@
+---
+sidebar_position: 5
+---
+
 # 使用 CMake 和 Meson 集成
 
 ## cmake

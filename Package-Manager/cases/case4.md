@@ -1,3 +1,7 @@
+---
+sidebar_position: 4
+---
+
 # fastboot 方式刷写开发板（以 Licheepi 4A 为例）
 
 目前 ruyi 包管理器提供了更为简便的操作系统安装方式，通过以下步骤以及相关引导即可完成安装。

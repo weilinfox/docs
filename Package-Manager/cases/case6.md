@@ -1,3 +1,7 @@
+---
+sidebar_position: 6
+---
+
 # 使用 QEMU 和 LLVM
 
 本案例基于 [为 MilkV Duo 构建 Coremark](case2.md)

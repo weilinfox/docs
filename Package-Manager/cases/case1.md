@@ -1,3 +1,7 @@
+---
+sidebar_position: 1
+---
+
 # 使用 Ruyi 编译环境构建（以 Licheepi 4A 为例）
 
 以开源基准测试程序 coremark 为例，展示从 ruyi 包管理器安装到使用 ruyi 包管理器搭建 RISC-V 的编译、模拟环境，完成 coremark 源码本地编译并在 Licheepi 4A 开发板上运行的过程。
