@@ -1,3 +1,7 @@
+---
+sidebar_position: 1
+---
+
 # Hello Ruyi
 
 欢迎来到 [RuyiSDK](https://github.com/ruyisdk) 相关介绍内容，以下是本文相关内容：
