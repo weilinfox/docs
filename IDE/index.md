@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# RuyiSDK IDE
+# 概览
 
 ## 简介
 
