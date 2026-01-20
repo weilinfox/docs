@@ -486,7 +486,7 @@ Ruyi 包管理器版本前了解。其中 packages-index 相关问题将主要�
 <p>新增了对于 OpenCloudOS 9.4、openEuler 24.03 LTS SP2、openEuler 25.03、openKylin 2.0 的支持情况。<code>ruyi</code> 的 Python 依赖包在这些发行版上均有少量缺失，但其余依赖包的版本满足要求，我们预计将在 2025 年 10 月完成对它们的支持。</p>
 </li>
 </ul>
-<h2 class="anchor [scroll-margin-top:calc(var(--ifm-navbar-height)_+_0.5rem)]" id="ruyisdk-软件源">RuyiSDK 软件源<a class="hash-link" href="https://ruyisdk.org/docs/blog/2025/07/08/ruyi-0.37#ruyisdk-%E8%BD%AF%E4%BB%B6%E6%BA%90" aria-label="RuyiSDK 软�件源 permalink" title="RuyiSDK 软件源 permalink"><svg xmlns="http://www.w3.org/2000/svg" width="0.75em" height="0.75em" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-link" aria-hidden="true"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h2 class="anchor [scroll-margin-top:calc(var(--ifm-navbar-height)_+_0.5rem)]" id="ruyisdk-软件源">RuyiSDK 软件源<a class="hash-link" href="https://ruyisdk.org/docs/blog/2025/07/08/ruyi-0.37#ruyisdk-%E8%BD%AF%E4%BB%B6%E6%BA%90" aria-label="RuyiSDK 软件源 permalink" title="RuyiSDK 软件源 permalink"><svg xmlns="http://www.w3.org/2000/svg" width="0.75em" height="0.75em" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-link" aria-hidden="true"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
 <ul>
 <li>实体数据库更新：<!-- -->
 <ul>

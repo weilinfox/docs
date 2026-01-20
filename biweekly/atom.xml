@@ -483,7 +483,7 @@ RuyiSDK 软件的打包与分发工作：目前您可以直接在 GitHub 上查�
 </li>
 </ul>
 <p>感谢大家的持续关注与支持，我们将继续努力，为大家带来更稳定、更强大的开发体验！</p>
-<h2 class="anchor [scroll-margin-top:calc(var(--ifm-navbar-height)_+_0.5rem)]" id="包管理器">包管理器<a class="hash-link" href="https://ruyisdk.org/docs/biweekly/2025/11/04/ruyisdk-biweekly-55#%E5%8C%85%E7%AE%A1%E7%90%86%E5%99%A8" aria-label="包管理器 permalink" title="包管理器 permalink"><svg xmlns="http://www.w3.org/2000/svg" width="0.75em" height="0.75em" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-link" aria-hidden="true"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h2 class="anchor [scroll-margin-top:calc(var(--ifm-navbar-height)_+_0.5rem)]" id="包管理器">包管理器<a class="hash-link" href="https://ruyisdk.org/docs/biweekly/2025/11/04/ruyisdk-biweekly-55#%E5%8C%85%E7%AE%A1%E7%90%86%E5%99%A8" aria-label="包管理器 permalink" title="包��管理器 permalink"><svg xmlns="http://www.w3.org/2000/svg" width="0.75em" height="0.75em" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-link" aria-hidden="true"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
 <p>由于 RuyiSDK 发版周期调整，RuyiSDK 包管理器的 0.43.0
 版本预期将在 11 月底正式发布。您仍可通过以下渠道下载 RuyiSDK 包管理器的 0.42.0 版本：</p>
 <ul>
