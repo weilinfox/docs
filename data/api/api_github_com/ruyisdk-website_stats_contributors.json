@@ -3,6 +3,24 @@
     {
       "total": 1,
       "author": {
+        "login": "alapha23",
+        "id": 23239892,
+        "avatar_url": "https://avatars.githubusercontent.com/u/23239892?v=4",
+        "html_url": "https://github.com/alapha23"
+      }
+    },
+    {
+      "total": 1,
+      "author": {
+        "login": "NX-lite",
+        "id": 281237347,
+        "avatar_url": "https://avatars.githubusercontent.com/u/281237347?v=4",
+        "html_url": "https://github.com/NX-lite"
+      }
+    },
+    {
+      "total": 1,
+      "author": {
         "login": "KevinMX",
         "id": 17025286,
         "avatar_url": "https://avatars.githubusercontent.com/u/17025286?v=4",
@@ -10,12 +28,21 @@
       }
     },
     {
-      "total": 1,
+      "total": 2,
       "author": {
-        "login": "alapha23",
-        "id": 23239892,
-        "avatar_url": "https://avatars.githubusercontent.com/u/23239892?v=4",
-        "html_url": "https://github.com/alapha23"
+        "login": "Glavo",
+        "id": 20694662,
+        "avatar_url": "https://avatars.githubusercontent.com/u/20694662?v=4",
+        "html_url": "https://github.com/Glavo"
+      }
+    },
+    {
+      "total": 4,
+      "author": {
+        "login": "lazyparser",
+        "id": 1802104,
+        "avatar_url": "https://avatars.githubusercontent.com/u/1802104?v=4",
+        "html_url": "https://github.com/lazyparser"
       }
     },
     {
@@ -30,10 +57,10 @@
     {
       "total": 4,
       "author": {
-        "login": "lazyparser",
-        "id": 1802104,
-        "avatar_url": "https://avatars.githubusercontent.com/u/1802104?v=4",
-        "html_url": "https://github.com/lazyparser"
+        "login": "shenghailing00-stack",
+        "id": 256837162,
+        "avatar_url": "https://avatars.githubusercontent.com/u/256837162?v=4",
+        "html_url": "https://github.com/shenghailing00-stack"
       }
     },
     {
@@ -82,7 +109,7 @@
       }
     },
     {
-      "total": 47,
+      "total": 51,
       "author": {
         "login": "LoneBlade-zhang",
         "id": 207433538,
@@ -91,7 +118,7 @@
       }
     },
     {
-      "total": 60,
+      "total": 67,
       "author": {
         "login": "a1gorhythm7",
         "id": 198067605,
@@ -109,7 +136,7 @@
       }
     },
     {
-      "total": 219,
+      "total": 406,
       "author": {
         "login": "weilinfox",
         "id": 54651938,
@@ -119,7 +146,7 @@
     }
   ],
   "ruyisdk_org_data": {
-    "generatedAt": "2026-03-26T19:51:23.324Z",
+    "generatedAt": "2026-10-08T23:39:51.261Z",
     "source": "https://api.github.com/repos/ruyisdk/ruyisdk-website/stats/contributors"
   }
 }
